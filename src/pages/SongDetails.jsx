@@ -29,14 +29,3 @@ const SongDetails = () => {
 export default SongDetails;
 
 
-/**
- * params
- * useParams
- * dispatch
- * useSelector
- * useDispatch
- * flex - col(t)
- * mb-10(t)
- * mt-5(t)
- * 
- */
