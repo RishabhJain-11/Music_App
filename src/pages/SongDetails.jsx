@@ -12,7 +12,6 @@ const SongDetails = () => {
     const { data: songData, isFetching: isFetchingSongDetails } = useGetSongDetailsQuery({ songid });
 
 
-    
     return (
         <div className="flex flex-col">
             <DetailsHeader artistId="" songData={songData} />
