@@ -44,8 +44,3 @@ const CountryTracks = () => {
 };
 
 export default CountryTracks;
-
-
-/**
- * https://geo.ipify.org/api/v2/country?apiKey=at_FSCbNJZIiHPyISBra0r93Ipn5Pr7p&ipAddress=8.8.8.8
- */
